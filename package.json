@@ -1,0 +1,34 @@
+{
+  "name": "@iamthe-Wraith/command",
+  "version": "1.0.0",
+  "description": "class used to create new commands for CLI's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamthe-Wraith/command.git"
+  },
+  "keywords": [],
+  "author": "iamthe-Wraith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamthe-Wraith/command/issues"
+  },
+  "homepage": "https://github.com/iamthe-Wraith/command#readme",
+  "dependencies": {
+    "@iamthe-wraith/logger": "^1.0.0",
+    "@iamthe-wraith/cmd-line-parser": "^1.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.2.0",
+    "@typescript-eslint/parser": "^3.2.0",
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
